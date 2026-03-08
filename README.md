@@ -1,2 +1,2 @@
 # Len-ois-Mara
-Este repositório é praticar o Fluxo GitHub
+Este repositório é para praticar o Fluxo GitHub
